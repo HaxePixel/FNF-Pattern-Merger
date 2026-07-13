@@ -1,0 +1,5 @@
+# Native Turbo expansion engine (strongly recommended).
+numpy>=1.24
+
+# Tkinter and all non-Turbo functionality use the Python standard library.
+# PyInstaller is installed separately by build_windows.bat when building an EXE.
